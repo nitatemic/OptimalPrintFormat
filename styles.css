@@ -1,0 +1,12 @@
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+#imagePreview {
+  margin-top: 20px;
+}
+
+#result {
+  margin-top: 20px;
+}
